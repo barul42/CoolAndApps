@@ -1,5 +1,5 @@
 # Cool Android Apps
-1.	andOTP			2FA thingy
+1.	andOTP			| 2FA thingy
 2.	Clover			4Chan browser
 3.	ConnectBot		SSH client
 4.	DAVdroid		CalDAV/CardDAV client
