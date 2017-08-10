@@ -6,7 +6,7 @@
 |ConnectBot			|SSH/telnet		| 
 |DAVdroid			|CalDAV/CardDAV	| 
 |F-Droid			|App Market		| 
-|Firefox Nightly	|				| 
+|Firefox Nightly	|Nightly Firefox builds	| 
 |LOS Changelog		|LOS changes	| 
 |MuPDF mini			|PDF reader		| 
 |Odyssey			|Music player	|
