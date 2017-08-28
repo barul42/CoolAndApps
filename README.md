@@ -13,4 +13,3 @@
 |OpenKeychain		        |PGP stuff		| https://f-droid.org/packages/org.sufficientlysecure.keychain/ |
 |Signal				|Encrypted msg	        | |
 |Yalp Store			|Download APK	        | https://f-droid.org/packages/com.github.yeriomin.yalpstore/ |
-|Barcode Scanner                |QR code scanner        | https://f-droid.org/packages/com.google.zxing.client.android/ |
