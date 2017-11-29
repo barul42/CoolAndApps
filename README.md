@@ -1,7 +1,6 @@
 # Cool Android Apps
 | App				| What is it	        | Link             |
 |-------------------|-----------------------|------------------|
-|andOTP				|2FA stuff				| https://f-droid.org/packages/org.shadowice.flocke.andotp/ |
 |Clover				|4chan browser	        | https://f-droid.org/packages/org.floens.chan/ |
 |ConnectBot			|SSH/telnet				| https://f-droid.org/packages/org.connectbot/ |
 |DAVdroid			|CalDAV/CardDAV	        | https://f-droid.org/packages/at.bitfire.davdroid/ |
@@ -13,3 +12,4 @@
 |OpenKeychain		|PGP stuff				| https://f-droid.org/packages/org.sufficientlysecure.keychain/ |
 |Signal				|Encrypted msg	        | https://signal.org/android/apk/ |
 |Yalp Store			|Download APK	        | https://f-droid.org/packages/com.github.yeriomin.yalpstore/ |
+|andOTP				|2FA stuff				| https://f-droid.org/packages/org.shadowice.flocke.andotp/ |
